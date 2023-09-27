@@ -1,0 +1,7 @@
+echo Echo This!
+echo Another echo
+!e
+!echo E
+!d
+!
+!history
